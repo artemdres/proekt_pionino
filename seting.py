@@ -20,3 +20,4 @@ MORNING_DURATION = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
                     1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2]
 STOLB=4
 SIR_STOLB=SIZE[0]/STOLB
+print ("привет")
